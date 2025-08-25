@@ -1,0 +1,79 @@
+*{
+    background-color: rgb(24, 45, 100);
+}
+.head-navbar{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.logo-items{
+    display: flex;
+    gap: 20px;
+}
+.logo-item1{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-color: red;
+}
+.logo-item2{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-color: orange;
+}
+.logo-item3{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-color: green;
+}
+.search-bar{
+    height: 50px;
+    width: 90%;
+    background-color: white;
+}
+.body-items{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.body-items1, .body-items2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+.item1{
+    height: 300px;
+    width: 500px;
+    background-color: red;
+}
+.item2{
+    height: 300px;
+    width: 500px;
+    background-color: rgb(255, 138, 13);
+}
+.item3{
+    height: 300px;
+    width: 500px;
+    background-color: rgb(255, 88, 37);
+}
+.item4{
+    height: 300px;
+    width: 500px;
+    background-color: rgb(15, 246, 192);
+}
+.item5{
+    height: 300px;
+    width: 500px;
+    background-color: rgb(75, 156, 130);
+}
+.item6{
+    height: 300px;
+    width: 500px;
+    background-color: lab(90.75% -51.74 -7.94);
+}
