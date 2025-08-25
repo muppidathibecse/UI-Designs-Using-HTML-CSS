@@ -1,0 +1,52 @@
+*{
+    background-color: rgb(31, 39, 60);
+}
+.head-navbar{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.logo-items{
+    display: flex;
+    gap: 20px;
+}
+.logo-item1{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-color: red;
+}
+.logo-item2{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-color: orange;
+}
+.logo-item3{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-color: green;
+}
+.search-bar{
+    height: 50px;
+    width: 90%;
+    background-color: white;
+}
+.flex-container {
+    margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.item {
+  width: 220px;
+  height: 190px;
+  border-radius: 4px;
+}
+
